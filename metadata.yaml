@@ -1,11 +1,16 @@
 _repo: Die-Entwicklungsgeschichte-der-Stile-in-der-bildenden-Kunst-Zweiter-Band-Von-der-Renaissance-__68263
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68263-h/images/cover.jpg
 creator:
   author:
     agent_name: Cohn-Wiener, Ernst
     gutenberg_agent_id: '54684'
     url: http://www.gutenberg.org/2009/agents/54684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68263#Die-Entwicklungsgeschichte-der-Stile-in-der-bildenden-Kunst-Zweiter-Band-Von-der-Renaissance-_
 gutenberg_issued: '2022-06-08'
 identifiers:
   gutenberg: '68263'
